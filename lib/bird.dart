@@ -6,7 +6,7 @@ class MyBird extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Image.asset(
-      'assets/bird.png',height: 60,width: 60,
+      'assets/bird.png',height: 80,width: 80,
     );
   }
 }
